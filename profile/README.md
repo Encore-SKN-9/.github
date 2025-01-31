@@ -15,7 +15,7 @@ class Teacher:
 
 <br>
 
-### 🌟 Back-end
+### 🌟 Lecture
 
 | Chapter | Repository |
 | ------ | ------ |
@@ -24,6 +24,7 @@ class Teacher:
 | web crawling | [Web Crawling lecture sources](https://github.com/Encore-SKN-9/web-crawling.git) |
 | data science | [Data Analysis lecture sources](https://github.com/Encore-SKN-9/data-analysis.git) |
 | machine learning | [ML lecture sources](https://github.com/Encore-SKN-9/machine-learning.git) |
+| deep learning | [DL basic lecture sources](https://github.com/Encore-SKN-9/deep-learning-basic.git) |
 
 <br><br><br>
 
