@@ -25,6 +25,7 @@ class Teacher:
 | data science | [Data Analysis lecture sources](https://github.com/Encore-SKN-9/data-analysis.git) |
 | machine learning | [ML lecture sources](https://github.com/Encore-SKN-9/machine-learning.git) |
 | deep learning | [DL basic lecture sources](https://github.com/Encore-SKN-9/deep-learning-basic.git) |
+| natural language processing | [NLP lecture sources](https://github.com/Encore-SKN-9/nlp) |
 
 <br><br><br>
 
@@ -33,4 +34,5 @@ class Teacher:
 | Chapter | Repository |
 | ------ | ------ |
 | 데이터분석 실습 | [Data Analysis practice](https://github.com/Encore-SKN-9/data-analysis-practice.git)|
-
+| EDA 미니 프로젝트 | [1팀](https://github.com/Encore-SKN-9/eda_1team) / [2팀](https://github.com/Encore-SKN-9/eda_2team) / [3팀](https://github.com/Encore-SKN-9/eda_3team) / [4팀](https://github.com/Encore-SKN-9/eda_4team) / [5팀](https://github.com/Encore-SKN-9/eda_5team) / [6팀](https://github.com/Encore-SKN-9/eda_6team) |
+| ML 미니 프로젝트 | [1팀](https://github.com/Encore-SKN-9/ml_1team) / [2팀](https://github.com/Encore-SKN-9/ml_2team) / [3팀](https://github.com/Encore-SKN-9/ml_3team) / [4팀](https://github.com/Encore-SKN-9/ml_4team) / [5팀](https://github.com/Encore-SKN-9/ml_5team) / [6팀](https://github.com/Encore-SKN-9/ml_6team) |
