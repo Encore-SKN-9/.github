@@ -27,6 +27,7 @@ class Teacher:
 | deep learning | [DL basic lecture sources](https://github.com/Encore-SKN-9/deep-learning-basic.git) |
 | natural language processing | [NLP lecture sources](https://github.com/Encore-SKN-9/nlp) |
 | large language model | [LLM lecture sources](https://github.com/Encore-SKN-9/llm.git) |
+| front-end | [HTML+CSS+JS lecture sources](https://github.com/Encore-SKN-9/front_end.git) |
 
 <br><br><br>
 
